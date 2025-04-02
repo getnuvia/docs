@@ -33,12 +33,45 @@ Welcome to the Nuvia documentation. This repository contains comprehensive docum
 
 -   [Contribution Guide](impl-docs/contributing/contribution-guide.md)
 
+### 🔍 Competitive Research & Analysis
+
+#### Market Analysis
+
+-   [Comprehensive Report](competitive-research/comprehensive_report.md)
+-   [Enhanced Competitive Report](competitive-research/enhanced_competitive_report.md)
+
+#### Competitor Deep Dives
+
+-   [Uber Production Neighbors](competitive-research/uber_production_neighbors.md)
+-   [Uber Slate](competitive-research/uber_slate.md)
+-   [Signadot Overview](competitive-research/signadot_overview.md)
+-   [Signadot GitHub Analysis](competitive-research/signadot_github_analysis.md)
+
+#### System Architecture & Features
+
+-   [System Architecture](competitive-research/system_architecture.md)
+-   [Key Components and Features](competitive-research/key_components_and_features.md)
+-   [Implementation Roadmap](competitive-research/implementation_roadmap.md)
+
+#### AI Integration & Features
+
+-   [AI Integration Research](competitive-research/ai_integration_research.md)
+-   [AI Enhanced Architecture](competitive-research/ai_enhanced_architecture.md)
+-   [AI Enhanced Roadmap](competitive-research/ai_enhanced_roadmap.md)
+-   [Agentic Workflow Capabilities](competitive-research/agentic_workflow_capabilities.md)
+-   [AI Agent Features](competitive-research/ai_agent_features.md)
+
+#### Project Management
+
+-   [Todo](competitive-research/todo.md)
+
 ## Quick Links
 
 -   🔍 [Full Documentation Tree](#documentation-structure)
 -   🚀 [Getting Started Guide](impl-docs/getting-started/getting-started.md)
 -   💡 [Architecture Overview](impl-docs/architecture/architecture.md)
 -   📝 [API Design](impl-docs/architecture/api-design.md)
+-   📊 [Competitive Analysis](competitive-research/comprehensive_report.md)
 
 ## Need Help?
 
